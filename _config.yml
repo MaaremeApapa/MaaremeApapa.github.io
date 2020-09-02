@@ -87,7 +87,7 @@ author:
   name             : "Maareme Apapa"
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : "Rivers State, Nigeria"
+  location         : "Nigeria"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
