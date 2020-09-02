@@ -3,7 +3,7 @@ title: "Loan Approval Project"
 date: 2020-09-01
 tags: [data wrangling, data science, loan approval prediction]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: ""
 excerpt: "Data Wrangling, Data Science, Loan Approval Prediction"
 mathjax: "true"
 ---
@@ -879,5 +879,5 @@ val
 </div>
 
 
-
-### In this project, we have successfully built a predictive model from scratch for loan approval. We were able to save our trained model. We also re-used our model at a later time and saw that it performed as expected. In a future project we might look at using this model in the backend of an online form using django or flask.
+### Conclusion
+### We have been able to successfully build a predictive model for loan approval. We were able to save our trained model. We also re-used our model at a later time and saw that it performed as expected.
