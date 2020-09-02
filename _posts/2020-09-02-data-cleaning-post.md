@@ -1,5 +1,5 @@
 ---
-title: "Loan Approval Project"
+title: "Data Cleaning Project"
 date: 2020-09-02
 tags: [data wrangling, data science, data cleaning, messy data]
 header:
