@@ -3,7 +3,7 @@ title: "Fake News Detection Project"
 date: 2020-08-28
 tags: [data wrangling, data science, fake news detection]
 header:
-  image: "/images/perceptron/display-page.jpg"
+  image: "/images/perceptron/data-science.png"
 excerpt: "Data Wrangling, Data Science, Fake News Detection"
 mathjax: "true"
 ---
