@@ -3,7 +3,7 @@ title: "Data Cleaning Project"
 date: 2020-09-02
 tags: [data wrangling, data science, data cleaning, messy data]
 header:
-  image: "/images/perceptron/header-image.png"
+  image: "/images/perceptron/display-page.jpg"
 excerpt: "Data Wrangling, Data Science, Data Cleaning, Messy Data"
 mathjax: "true"
 ---
