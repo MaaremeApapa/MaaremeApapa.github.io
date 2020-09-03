@@ -3,7 +3,7 @@ title: "Loan Approval Project"
 date: 2020-09-01
 tags: [data wrangling, data science, loan approval prediction]
 header:
-  image: "/images/perceptron/header-image.png"
+  image: "/images/perceptron/display-page.jpg"
 excerpt: "Data Wrangling, Data Science, Loan Approval Prediction"
 mathjax: "true"
 ---
